@@ -1,0 +1,21 @@
+{
+    "post code": "4000",
+    "country": "Bulgaria",
+    "country abbreviation": "BG",
+    "places": [
+        {
+            "place name": "Войсил / Vojsil",
+            "longitude": "24.6333",
+            "state": "Пловдив / Plovdiv",
+            "state abbreviation": "PDV",
+            "latitude": "42.2167"
+        },
+        {
+            "place name": "Пловдив / Plovdiv",
+            "longitude": "24.75",
+            "state": "Пловдив / Plovdiv",
+            "state abbreviation": "PDV",
+            "latitude": "42.15"
+        }
+    ]
+}

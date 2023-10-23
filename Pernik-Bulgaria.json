@@ -1,0 +1,14 @@
+{
+    "post code": "2300",
+    "country": "Bulgaria",
+    "country abbreviation": "BG",
+    "places": [
+        {
+            "place name": "Перник / Pernik",
+            "longitude": "23.0333",
+            "state": "Перник / Pernik",
+            "state abbreviation": "PER",
+            "latitude": "42.6"
+        }
+    ]
+}

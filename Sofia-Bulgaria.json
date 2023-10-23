@@ -1,0 +1,14 @@
+{
+    "post code": "1000",
+    "country": "Bulgaria",
+    "country abbreviation": "BG",
+    "places": [
+        {
+            "place name": "София / Sofija",
+            "longitude": "23.3167",
+            "state": "София (столица) / Sofija (stolica)",
+            "state abbreviation": "SOF",
+            "latitude": "42.6833"
+        }
+    ]
+}
